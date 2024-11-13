@@ -3,16 +3,17 @@
 
 ## Oficial
 <ul>
-<li><a href='https://www.python.org/' target='_blank'>Sitio web oficial de Python</a></li>
-<li><a href='https://docs.python.org/3/library/functions.html' target='_blank'>Built-in functions</a></li>
-<li><a href='https://docs.python.org/3/library/index.html' target='_blank'>The Python Standard Library</a></li>
-<li><a href='https://docs.python.org/3/library/exceptions.html' target='_blank'>Built-in Exceptions</a></li>
+<li><a href='https://www.python.org/'>Sitio web oficial de Python</a></li>
+<li><a href='https://docs.python.org/3/library/functions.html'>Built-in functions</a></li>
+<li><a href='https://docs.python.org/3/library/index.html'>The Python Standard Library</a></li>
+<li><a href='https://docs.python.org/3/library/exceptions.html'>Built-in Exceptions</a></li>
 </ul>
 
 ## Editores
 <ul>
-<li><a href='https://code.visualstudio.com/' target='_blank'>Microsoft Visual Studio Code</a></li>
-<li><a href='https://www.jetbrains.com/es-es/pycharm/' target='_blank'>JetBrains PyCharm</a></li>
+<li><a href='https://code.visualstudio.com/'>Microsoft Visual Studio Code</a></li>
+<li><a href='https://www.jetbrains.com/es-es/pycharm/'>JetBrains PyCharm</a></li>
+<li><a href='https://jupyter.org/'>Project Jupyter</li>
 </ul>
 
 ## Librerías
