@@ -1,4 +1,4 @@
-# Enlaces
+# Recursos
  Enlaces a recursos relacionados con Python
 
 ## Oficial
