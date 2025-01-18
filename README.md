@@ -1,6 +1,7 @@
 # Recursos
  Enlaces a recursos relacionados con Python
-[Aula de un curso de Python](https://fpaniaguapython.github.io/recursos/python-image.webp)
+ 
+![Aula de un curso de Python](https://fpaniaguapython.github.io/recursos/python-image.webp)
 ## Oficial
 <ul>
 <li><a href='https://www.python.org/'>Sitio web oficial de Python</a></li>
