@@ -49,5 +49,10 @@
 </ul>
 
 ## Artículos de interés
-
+<ul>
+ <li><a href='https://realpython.com/tutorials/tools/'>Tutoriales</a></li>
+ <li><a href='https://realpython.com/creating-modifying-pdf/'>Create and Modify PDF Files in Python</li>
+ <li><a href='https://realpython.com/beautiful-soup-web-scraper-python/'>Beautiful Soup: Build a Web Scraper With Python</a></li>
+ <li><a href='https://realpython.com/python-logging/'>Logging in Python</a>
+</ul>
  
