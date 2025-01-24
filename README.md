@@ -54,6 +54,9 @@
  <li><a href='https://realpython.com/tutorials/tools/'>Tutoriales</a></li>
  <li><a href='https://realpython.com/creating-modifying-pdf/'>Create and Modify PDF Files in Python</li>
  <li><a href='https://realpython.com/beautiful-soup-web-scraper-python/'>Beautiful Soup: Build a Web Scraper With Python</a></li>
- <li><a href='https://realpython.com/python-logging/'>Logging in Python</a>
+ <li><a href='https://realpython.com/python-logging/'>Logging in Python</a></li>
+ <li><a href='https://srivastavayushmaan1347.medium.com/getting-started-with-python-text-to-speech-a-beginners-guide-to-pyttsx3-a105f130c420'>Getting Started with Python Text-to-Speech: A Beginner’s Guide to pyttsx3</a></li>
+ <li><a href='https://www.geeksforgeeks.org/convert-text-speech-python/'>Convert Text to Speech in Python</a></li>
+ 
 </ul>
  
