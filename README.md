@@ -36,6 +36,7 @@
 ## Webs de referencia
 <ul>
 <li><a href='https://ellibrodepython.com/' target='_blank'>El libro de Python</a></li>
+<li><a href='https://realpython.com/'>Real Python</li>
 </ul>
 
 ## Libros
