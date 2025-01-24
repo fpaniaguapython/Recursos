@@ -37,4 +37,16 @@
 <ul>
 <li><a href='https://ellibrodepython.com/' target='_blank'>El libro de Python</a></li>
 </ul>
+
+## Libros
+<ul>
+ <li><a href='https://magpi.raspberrypi.com/books/essentials-games-vol1'>Essentials - Make Games with Python</a></li>
+ <li><a href='https://magpi.raspberrypi.com/books/create-guis'>Create Graphical User Interfaces with Python</a></li>
+ <li><a href='https://magpi.raspberrypi.com/books/micropython-pico'>Get Started with MicroPython on Raspberry Pi Pico</a></li>
+ <li><a href='https://magpi.raspberrypi.com/books/code-the-classics1'>Code the Classics — Volume 1</a></li>
+ <li><a href='https://magpi.raspberrypi.com/books/retro-gaming-raspberry-pi-2nd-edition'>Retro Gaming with Raspberry Pi 2nd Edition</a></li>
+</ul>
+
+## Artículos de interés
+
  
