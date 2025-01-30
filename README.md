@@ -60,5 +60,6 @@
  <li><a href='https://srivastavayushmaan1347.medium.com/getting-started-with-python-text-to-speech-a-beginners-guide-to-pyttsx3-a105f130c420'>Getting Started with Python Text-to-Speech: A Beginner’s Guide to pyttsx3</a></li>
  <li><a href='https://www.geeksforgeeks.org/convert-text-speech-python/'>Convert Text to Speech in Python</a></li>
  <li><a href='https://www.datacamp.com/tutorial/matplotlib-tutorial-python'>https://www.datacamp.com/tutorial/matplotlib-tutorial-python</a></li>
+ <li><a href='https://www.maestrosdelweb.com/guia-python-testeando-codigo-doctest-comentarios/'>Test unitarios con doctest</a></li>
 </ul>
  
