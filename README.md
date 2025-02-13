@@ -48,7 +48,7 @@
  <li><a href='https://magpi.raspberrypi.com/books/retro-gaming'>Retro Gaming with Raspberry Pi</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/retro-gaming-raspberry-pi-2nd-edition'>Retro Gaming with Raspberry Pi 2nd Edition</a></li>
  <li><a href='https://pythonaplicado.com/'>Libro Python Aplicado</a></li>
- <li><a href='https://archive.org/details/2012CursoPythonParaPrincipiantes'>Curso Python Para Principiantes</a></li>
+ <li><a href='https://archive.org/details/2012CursoPythonParaPrincipiantes'>Curso Python Para Principiantes (año 2012)</a></li>
 </ul>
 
 ## Artículos de interés
