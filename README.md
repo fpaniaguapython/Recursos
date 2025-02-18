@@ -41,7 +41,7 @@
 
 ## Libros
 <ul>
- <li><a href='https://fpaniaguapython.github.io/programming_for_computations_python.pdf'>Programming for Computations - Python</a></li>
+ <li><a href='https://fpaniaguapython.github.io/programming_for_computations_python.pdf'>Programming for Computations - Python (Svein Linge - Hans Petter Langtangen)</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/essentials-games-vol1'>Essentials - Make Games with Python</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/create-guis'>Create Graphical User Interfaces with Python</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/micropython-pico'>Get Started with MicroPython on Raspberry Pi Pico</a></li>
