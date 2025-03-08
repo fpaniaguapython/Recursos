@@ -23,6 +23,7 @@
 * [Numpy - The fundamental package for scientific computing with Python](https://numpy.org/)
 * [Django - Web Apps. framework](https://www.djangoproject.com/)
 * [Django - REST framework](https://www.django-rest-framework.org/)
+* [Pydantic is the most widely used data validation library for Python](https://docs.pydantic.dev/)
 * [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
 * [Uvicorn - An ASGI web server, for Python](https://www.uvicorn.org/)
 
