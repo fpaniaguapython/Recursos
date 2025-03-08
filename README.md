@@ -23,8 +23,8 @@
 * [Numpy - The fundamental package for scientific computing with Python](https://numpy.org/)
 * [Django - Web Apps. framework](https://www.djangoproject.com/)
 * [Django - REST framework](https://www.django-rest-framework.org/)
-* [FastAPI](https://fastapi.tiangolo.com/)
-* [Uvicorn - Web Server](https://www.uvicorn.org/)
+* [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
+* [Uvicorn - An ASGI web server, for Python](https://www.uvicorn.org/)
 
 ## Formación
 <ul>
