@@ -18,13 +18,13 @@
 </ul>
 
 ## Librerías
-<ul>
-<li><a href='https://pypi.org/' target='_blank'>PyPI · The Python Package Index</a></li>
-<li><a href='https://matplotlib.org/' target='_blank'>Matplotlib: Visualization with Python</a></li>
-<li><a href='https://numpy.org/' target='_blank'>Numpy - The fundamental package for scientific computing with Python</a></li>
-<li><a href='https://www.djangoproject.com/' target='_blank'>Django - Web Apps. framework</a></li>
-<li><a href='https://www.django-rest-framework.org/' target='_blank'>Django - REST framework</a></li>
-</ul>
+* [PyPI · The Python Package Index](https://pypi.org/)
+* [Matplotlib: Visualization with Python](https://matplotlib.org/)
+* [Numpy - The fundamental package for scientific computing with Python](https://numpy.org/)
+* [Django - Web Apps. framework](https://www.djangoproject.com/)
+* [Django - REST framework](https://www.django-rest-framework.org/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [Uvicorn - Web Server](https://www.uvicorn.org/)
 
 ## Formación
 <ul>
