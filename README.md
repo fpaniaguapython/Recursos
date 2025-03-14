@@ -38,6 +38,7 @@
 <ul>
 <li><a href='https://ellibrodepython.com/' target='_blank'>El libro de Python</a></li>
 <li><a href='https://realpython.com/'>Real Python</li>
+<li><a href='https://python-para-impacientes.blogspot.com/p/indice.html'>Blog Python Para Impacientes</a></li>
 </ul>
 
 ## Libros
