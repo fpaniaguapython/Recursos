@@ -55,14 +55,13 @@
 </ul>
 
 ## Artículos de interés
-<ul>
- <li><a href='https://realpython.com/tutorials/tools/'>Tutoriales</a></li>
- <li><a href='https://realpython.com/creating-modifying-pdf/'>Create and Modify PDF Files in Python</li>
- <li><a href='https://realpython.com/beautiful-soup-web-scraper-python/'>Beautiful Soup: Build a Web Scraper With Python</a></li>
- <li><a href='https://realpython.com/python-logging/'>Logging in Python</a></li>
- <li><a href='https://srivastavayushmaan1347.medium.com/getting-started-with-python-text-to-speech-a-beginners-guide-to-pyttsx3-a105f130c420'>Getting Started with Python Text-to-Speech: A Beginner’s Guide to pyttsx3</a></li>
- <li><a href='https://www.geeksforgeeks.org/convert-text-speech-python/'>Convert Text to Speech in Python</a></li>
- <li><a href='https://www.datacamp.com/tutorial/matplotlib-tutorial-python'>Tutorial Matplotlib</a></li>
- <li><a href='https://www.maestrosdelweb.com/guia-python-testeando-codigo-doctest-comentarios/'>Test unitarios con doctest</a></li>
-</ul>
- 
+* [RealPython Tutoriales](https://realpython.com/tutorials/tools/)
+* [Create and Modify PDF Files in Python](https://realpython.com/creating-modifying-pdf/)
+* [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+* [Logging in Python](https://realpython.com/python-logging/)
+* [Getting Started with Python Text-to-Speech: A Beginner’s Guide to pyttsx3](https://srivastavayushmaan1347.medium.com/getting-started-with-python-text-to-speech-a-beginners-guide-to-pyttsx3-a105f130c420)
+* [Convert Text to Speech in Python](https://www.geeksforgeeks.org/convert-text-speech-python/)
+* [Tutorial Matplotlib](https://www.datacamp.com/tutorial/matplotlib-tutorial-python)
+* [Test unitarios con doctest](https://www.maestrosdelweb.com/guia-python-testeando-codigo-doctest-comentarios/)
+* [PyPI · The Python Package Index](https://pypi.org/)
+* [10 lines of code - Repositorio GitHub](https://github.com/qxresearch/qxresearch-event-1)
