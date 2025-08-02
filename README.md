@@ -32,7 +32,6 @@
 <li><a href='https://edube.org/'>Edube</a></li>
 <li><a href='https://www.netacad.com/learning-collections/python?courseLang=en-US'>Python - Cisco Networking Academy</a></li>
 <li><a href='https://learn.microsoft.com/es-es/shows/intro-to-python-development/'>Python para principiantes - Microsoft</a></li>
-<li><a href='https://allendowney.github.io/ThinkPython/'>Think Python - Libro en línea para aprender a programar en Python</a></li>
 </ul>
 
 ## Webs de referencia
@@ -44,7 +43,9 @@
 
 ## Libros
 <ul>
+ <li><a href='https://www.amazon.es/Aprende-poco-Python-haciendo-ejercicios-ebook/dp/B0F3WCXY6R'>Aprende un poco de Python haciendo ejercicios</a></li>
  <li><a href='https://fpaniaguapython.github.io/programming_for_computations_python.pdf'>Programming for Computations - Python (Svein Linge - Hans Petter Langtangen)</a></li>
+ <li><a href='https://allendowney.github.io/ThinkPython/'>Think Python - Libro en línea para aprender a programar en Python</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/essentials-games-vol1'>Essentials - Make Games with Python</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/create-guis'>Create Graphical User Interfaces with Python</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/micropython-pico'>Get Started with MicroPython on Raspberry Pi Pico</a></li>
