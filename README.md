@@ -15,6 +15,7 @@
 <li><a href='https://code.visualstudio.com/'>Microsoft Visual Studio Code</a></li>
 <li><a href='https://www.jetbrains.com/es-es/pycharm/'>JetBrains PyCharm</a></li>
 <li><a href='https://jupyter.org/'>Project Jupyter</li>
+<li><a href='https://colab.google/'>Google colab</a></li>
 </ul>
 
 ## Librerías
@@ -43,7 +44,7 @@
 
 ## Libros
 <ul>
- <li><a href='https://www.amazon.es/Aprende-poco-Python-haciendo-ejercicios-ebook/dp/B0F3WCXY6R'>Aprende un poco de Python haciendo ejercicios</a></li>
+ <li><a href='https://www.amazon.es/Aprende-poco-Python-haciendo-ejercicios-ebook/dp/B0F3WCXY6R'>Aprende un poco de Python haciendo ejercicios <b>(Fernando Paniagua)</b></a></li>
  <li><a href='https://allendowney.github.io/ThinkPython/'>Think Python - Libro en línea para aprender a programar en Python</a></li>
  <li><a href='https://fpaniaguapython.github.io/programming_for_computations_python.pdf'>Programming for Computations - Python (Svein Linge - Hans Petter Langtangen)</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/essentials-games-vol1'>Essentials - Make Games with Python</a></li>
