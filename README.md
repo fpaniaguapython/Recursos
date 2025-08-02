@@ -29,9 +29,10 @@
 
 ## Formación
 <ul>
-<li><a href='https://edube.org/' target='_blank'>Edube</a></li>
-<li><a href='https://www.netacad.com/learning-collections/python?courseLang=en-US' target='_blank'>Python - Cisco Networking Academy</a></li>
-<li><a href='https://learn.microsoft.com/es-es/shows/intro-to-python-development/' target='_blank'>Python para principiantes - Microsoft</a></li>
+<li><a href='https://edube.org/'>Edube</a></li>
+<li><a href='https://www.netacad.com/learning-collections/python?courseLang=en-US'>Python - Cisco Networking Academy</a></li>
+<li><a href='https://learn.microsoft.com/es-es/shows/intro-to-python-development/'>Python para principiantes - Microsoft</a></li>
+<li><a href='https://allendowney.github.io/ThinkPython/'>Think Python - Libro en línea para aprender a programar en Python</a></li>
 </ul>
 
 ## Webs de referencia
