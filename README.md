@@ -18,6 +18,9 @@
 <li><a href='https://colab.google/'>Google colab</a></li>
 </ul>
 
+## Herramientas
+* [Online Compiler, AI Tutor, and Visual Debugger for Python, Java, C, C++, and JavaScript](https://pythontutor.com/)
+
 ## Librerías
 * [PyPI · The Python Package Index](https://pypi.org/)
 * [Matplotlib: Visualization with Python](https://matplotlib.org/)
@@ -68,3 +71,4 @@
 * [Test unitarios con doctest](https://www.maestrosdelweb.com/guia-python-testeando-codigo-doctest-comentarios/)
 * [PyPI · The Python Package Index](https://pypi.org/)
 * [10 lines of code - Repositorio GitHub](https://github.com/qxresearch/qxresearch-event-1)
+* [Python Docstrings](https://www.geeksforgeeks.org/python/python-docstrings/)
