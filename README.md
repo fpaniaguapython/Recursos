@@ -32,12 +32,11 @@
 * [Uvicorn - An ASGI web server, for Python](https://www.uvicorn.org/)
 
 ## Formación
-<ul>
-<li><a href='https://edube.org/'>Edube</a></li>
-<li><a href='https://www.netacad.com/learning-collections/python?courseLang=en-US'>Python - Cisco Networking Academy</a></li>
-<li><a href='https://learn.microsoft.com/es-es/shows/intro-to-python-development/'>Python para principiantes - Microsoft</a></li>
-</ul>
-
+* [Edube](https://edube.org/)
+* [Python - Cisco Networking Academy](https://www.netacad.com/learning-collections/python?courseLang=en-US)
+* [Python para principiantes - Microsoft](https://learn.microsoft.com/es-es/shows/intro-to-python-development/)
+* [Exploración y análisis de datos con Python - Microsoft](https://learn.microsoft.com/es-es/training/modules/explore-analyze-data-with-python/)
+ 
 ## Webs de referencia
 <ul>
 <li><a href='https://ellibrodepython.com/' target='_blank'>El libro de Python</a></li>
