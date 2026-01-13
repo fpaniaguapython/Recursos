@@ -36,6 +36,8 @@
 * [Python - Cisco Networking Academy](https://www.netacad.com/learning-collections/python?courseLang=en-US)
 * [Python para principiantes - Microsoft](https://learn.microsoft.com/es-es/shows/intro-to-python-development/)
 * [Exploración y análisis de datos con Python - Microsoft](https://learn.microsoft.com/es-es/training/modules/explore-analyze-data-with-python/)
+* [Introduction to Data Science](https://www.netacad.com/es/courses/introduction-data-science?courseLang=en-US)
+* [Data Science Essentials with Python](https://www.netacad.com/es/courses/data-science-essentials-with-python?courseLang=en-US)
  
 ## Webs de referencia
 <ul>
