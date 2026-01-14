@@ -73,3 +73,5 @@
 * [PyPI · The Python Package Index](https://pypi.org/)
 * [10 lines of code - Repositorio GitHub](https://github.com/qxresearch/qxresearch-event-1)
 * [Python Docstrings](https://www.geeksforgeeks.org/python/python-docstrings/)
+* [Real Python Pocket Reference](https://static.realpython.com/python-cheatsheet.pdf)
+* [Python Built-in Methods Cheatsheet](https://media.licdn.com/dms/document/media/v2/D561FAQGKYWYK99djdQ/feedshare-document-pdf-analyzed/B56Zu4QPXpG0AY-/0/1768322825205?e=1769040000&v=beta&t=uBa6t2gBwc6ZZstPrxkixd1oa76NTgULkg6T98CGIyQ)
