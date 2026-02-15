@@ -38,6 +38,7 @@
 * [Exploración y análisis de datos con Python - Microsoft](https://learn.microsoft.com/es-es/training/modules/explore-analyze-data-with-python/)
 * [Introduction to Data Science](https://www.netacad.com/es/courses/introduction-data-science?courseLang=en-US)
 * [Data Science Essentials with Python](https://www.netacad.com/es/courses/data-science-essentials-with-python?courseLang=en-US)
+* [Introducción a la programación con Python - Santander Open Academy](https://app.santanderopenacademy.com/es/course/introduction_to_python_programming)
  
 ## Webs de referencia
 <ul>
