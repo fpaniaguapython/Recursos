@@ -77,3 +77,4 @@
 * [Real Python Pocket Reference](https://static.realpython.com/python-cheatsheet.pdf)
 * [Python Built-in Methods Cheatsheet](https://media.licdn.com/dms/document/media/v2/D561FAQGKYWYK99djdQ/feedshare-document-pdf-analyzed/B56Zu4QPXpG0AY-/0/1768322825205?e=1769040000&v=beta&t=uBa6t2gBwc6ZZstPrxkixd1oa76NTgULkg6T98CGIyQ)
 * [Creating a Virtual Environment - w3schools](https://www.w3schools.com/python/python_virtualenv.asp)
+* [Gestión visual de entornos Python directamente desde Visual Studio Code](https://www.campusmvp.es/recursos/post/gestion-visual-de-entornos-python-directamente-desde-visual-studio-code.aspx)
