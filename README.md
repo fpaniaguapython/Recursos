@@ -20,6 +20,9 @@
 
 ## Herramientas
 * [Online Compiler, AI Tutor, and Visual Debugger for Python, Java, C, C++, and JavaScript](https://pythontutor.com/)
+* [Uvicorn - An ASGI web server, for Python](https://www.uvicorn.org/)
+* [uv - Gestor de paquetes (alternativa a PIP) y de proyectos](https://docs.astral.sh/uv/)
+* [ruff - Linter y formateador de código (alternativa a Pylint)](https://docs.astral.sh/ruff/)
 
 ## Librerías
 * [PyPI · The Python Package Index](https://pypi.org/)
@@ -30,6 +33,7 @@
 * [Pydantic is the most widely used data validation library for Python](https://docs.pydantic.dev/)
 * [FastAPI - FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://fastapi.tiangolo.com/)
 * [Uvicorn - An ASGI web server, for Python](https://www.uvicorn.org/)
+
 
 ## Formación
 * [Edube](https://edube.org/)
