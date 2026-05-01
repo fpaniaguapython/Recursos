@@ -66,6 +66,10 @@
  <li><a href='https://archive.org/details/2012CursoPythonParaPrincipiantes'>Curso Python Para Principiantes (año 2012)</a></li>
 </ul>
 
+## Análisis y visualización de datos
+* [Guía práctica de introducción al Análisis Exploratorio de Datos en Python](https://datos.gob.es/sites/default/files/documentacion/files/guia_eda_python.pdf)
+* [Herramientas de procesado y visualización de datos](https://datos.gob.es/sites/default/files/documentacion/files/herramientas_de_procesado_y_visualizacion_de_datos.pdf)
+
 ## Artículos de interés
 * [RealPython Tutoriales](https://realpython.com/tutorials/tools/)
 * [Create and Modify PDF Files in Python](https://realpython.com/creating-modifying-pdf/)
