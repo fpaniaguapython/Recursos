@@ -43,7 +43,7 @@
 * [Introduction to Data Science](https://www.netacad.com/es/courses/introduction-data-science?courseLang=en-US)
 * [Data Science Essentials with Python](https://www.netacad.com/es/courses/data-science-essentials-with-python?courseLang=en-US)
 * [Introducción a la programación con Python - Santander Open Academy](https://app.santanderopenacademy.com/es/course/introduction_to_python_programming)
-* [Portal de aprendizaje basado en ejercicios](https://exercism.org)
+* [Exercism - Portal de aprendizaje basado en ejercicios](https://exercism.org)
  
 ## Webs de referencia
 <ul>
