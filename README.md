@@ -89,3 +89,17 @@
 * [Python Built-in Methods Cheatsheet](https://media.licdn.com/dms/document/media/v2/D561FAQGKYWYK99djdQ/feedshare-document-pdf-analyzed/B56Zu4QPXpG0AY-/0/1768322825205?e=1769040000&v=beta&t=uBa6t2gBwc6ZZstPrxkixd1oa76NTgULkg6T98CGIyQ)
 * [Creating a Virtual Environment - w3schools](https://www.w3schools.com/python/python_virtualenv.asp)
 * [Gestión visual de entornos Python directamente desde Visual Studio Code](https://www.campusmvp.es/recursos/post/gestion-visual-de-entornos-python-directamente-desde-visual-studio-code.aspx)
+
+## Data Sources
+### España
+* [Datos abiertos del Gobierno de España](https://datos.gob.es/es/)
+* [Aragón - Open Data](https://opendata.aragon.es/)
+* [Comunidad de Madrid - Datos abiertos](https://www.comunidad.madrid/gobierno/datos-abiertos)
+* [Xunta de Galicia - Datos abertos](https://abertos.xunta.gal/portada)
+### Internacional
+* [Kaggle](https://www.kaggle.com/)
+* [Google Trends](https://trends.google.es/)
+* [Eurostat](https://ec.europa.eu/eurostat/data/)
+* [Organización Mundial de la Saluda](https://www.who.int/data/gho/data/)
+
+
