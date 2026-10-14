@@ -55,7 +55,10 @@
 
 ## Libros
 <ul>
- <li><a href='https://www.amazon.es/Aprende-poco-Python-haciendo-ejercicios-ebook/dp/B0F3WCXY6R'>Aprende un poco de Python haciendo ejercicios <b>(Fernando Paniagua)</b></a></li>
+ <li><a href='https://www.amazon.es/Aprende-poco-Python-haciendo-ejercicios-ebook/dp/B0F3WCXY6R'>Aprende un poco de Python haciendo ejercicios <b>(Fernando Paniagua)</b> (Amazon)</a></li>
+ 
+ <li><a href='https://drive.google.com/file/d/1auPh7qbuBvVLlPwhRoDU052pLhs_rZZT/view?usp=sharing'>Aprende un poco de Python haciendo ejercicios <b>(Fernando Paniagua)</b> (Versión ipynb)</a></li>
+ 
  <li><a href='https://allendowney.github.io/ThinkPython/'>Think Python - Libro en línea para aprender a programar en Python</a></li>
  <li><a href='https://fpaniaguapython.github.io/programming_for_computations_python.pdf'>Programming for Computations - Python (Svein Linge - Hans Petter Langtangen)</a></li>
  <li><a href='https://magpi.raspberrypi.com/books/essentials-games-vol1'>Essentials - Make Games with Python</a></li>
